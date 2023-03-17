@@ -1,0 +1,11 @@
+文件结构：
+	/Lab
+	    /Code
+		Makefile
+		lexical.l
+		syntax.y
+		main.c
+		  .
+		  .
+	    /report.pdf
+	    /README
